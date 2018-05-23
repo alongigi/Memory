@@ -53,7 +53,7 @@
     <Compile Include="BitwiseMux.cs" />
     <Compile Include="BitwiseNotGate.cs" />
     <Compile Include="BitwiseOrGate.cs" />
-    <Compile Include="MultiBitOrGate.cs" />
+    <Compile Include="NAndGate.cs" />
     <Compile Include="TwoInputGate.cs" />
     <Compile Include="Clock.cs" />
     <Compile Include="Component.cs" />
@@ -68,7 +68,6 @@
     <Compile Include="MultiBitGate.cs" />
     <Compile Include="MultiBitRegister.cs" />
     <Compile Include="MuxGate.cs" />
-    <Compile Include="NOrGate.cs" />
     <Compile Include="NotGate.cs" />
     <Compile Include="OrGate.cs" />
     <Compile Include="Program.cs" />
